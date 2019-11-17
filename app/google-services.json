@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "319265141765",
+    "firebase_url": "https://lasthomework-ecdbe.firebaseio.com",
+    "project_id": "lasthomework-ecdbe",
+    "storage_bucket": "lasthomework-ecdbe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319265141765:android:3d6f1aa0b6fe91591fd86c",
+        "android_client_info": {
+          "package_name": "com.example.lasthomework"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319265141765-ve50rtbb3ssqf0fkpd65ghqjqniquvjm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lasthomework",
+            "certificate_hash": "36d362136fe4af95ad20f61753944c287588df39"
+          }
+        },
+        {
+          "client_id": "319265141765-cs8m2324uf0ksq2b6diul2nkif5jb8h6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUTzvOjBR6gbNY3Pb2TEPFx7idHwk4Pos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319265141765-cs8m2324uf0ksq2b6diul2nkif5jb8h6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
